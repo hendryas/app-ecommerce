@@ -1,0 +1,28 @@
+.bg1 {
+	position: relative;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	background: #579FE9;
+	overflow: hidden;
+}
+
+.bg1 .content-center {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.bg1 .content-desc-center {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.bg1 .logo-admin {
+	line-height: 70px;
+}
+
+.bg1 .user-thumb img {
+	height: 88px;
+	width: 88px;
+}
